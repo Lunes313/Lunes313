@@ -6,7 +6,7 @@
 
 ## Estadísticas de GitHub
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TuUsuarioDeGitHub&show_icons=true&theme=radical)](https://github.com/Lunes313)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Lunes313&show_icons=true&theme=radical)](https://github.com/Lunes313)
 
 ## Contáctame
 

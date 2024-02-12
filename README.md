@@ -1,5 +1,6 @@
 # ¡Hola! Soy Laura
 
+![gitartwork](gitartwork.svg)
 
 ## Acerca de mí
 

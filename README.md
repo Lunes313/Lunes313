@@ -10,6 +10,8 @@
 
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Lunes313&show_icons=true&theme=radical)](https://github.com/Lunes313)
 
+![Lunes313's Stats](https://github-readme-stats.vercel.app/api?username=Lunes313&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 ## Contáctame
 
 ¡No dudes en contactarme para colaboraciones, preguntas o simplemente para charlar!

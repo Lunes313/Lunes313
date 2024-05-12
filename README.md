@@ -1,4 +1,4 @@
-# ¡Hola! Soy Laura
+# ¡Hola! Bienvenid@
 
 ![gitartwork](gitartwork.svg)
 [![lunes313's Stats](https://github-readme-stats.vercel.app/api?username=lunes313&theme=radical&show_icons=true&count_private=true)](https://github.com/Lunes313)
